@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Cover](https://github.com/Ptbambie/Ptbambie/blob/master/Fichier19mdpi.png)
-<!--
+![img_contact](./images/mascotte.png)
+
 **Ptbambie/Ptbambie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#gh-light-mode-only
+#gh-dark-mode-only
