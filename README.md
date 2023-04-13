@@ -1,5 +1,5 @@
 ### Hi there 👋
-![img_contact](./images/mascotte.png)
+![img_contact](Images/mascotte.png)
 
 **Ptbambie/Ptbambie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
