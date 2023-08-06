@@ -1,37 +1,24 @@
-### Hi there 👋
+### Bonjour 👋
 
-A data enthusiast
+Je suis une développeuse FullStack passionnée par les données.
 
-🔭 I am currently a web developer and I am training in Data Analytics, Python, Machine Learning & Statistics
+🔭 Actuellement, je suis développeuse web et Graphiste.
 
-🛩️ Explore data science, NLP, deep learning and artificial intelligence
+🛩️ J'explore le domaine de la science des données, et développes mes compétences dans les langages de programmations Front et Backend.
 
+📄 Découvrez mon travail et mes expériences dans mon [CV](https://audreyalaime.vercel.app/assets/AudreyALAIME-4b76f846.pdf).
 
-📄 Know my work and my experiences My CV
+📫 Vous pouvez me contacter sur : [LinkedIn](https://www.linkedin.com/feed/) [Instagram](https://www.instagram.com/accounts/edit/)
 
-📫 How to reach me: LinkedIn Instagram
+⚡ Fun fact : ♥️ J'aime la photographie 📷 les voyages 🌏 et les animaux 🐶
 
-⚡ Fun fact: ♥️ Photography 📷 Traveling 🌏 animals 🐶
+Quels sont mes projets ❓ 👨‍💻 Trouver un emploi dans le web ou je pourrais m'épanouir et continuer à progresser 
 
-What are my plans ❓
- 👨‍💻 Find a DATA Engineer Apprenticeship
+Me former en statistiques pour la science des données avec Python 📊
 
-Train me in statistics for data science with Python 📊
+Créer un système de gestion de bibliothèque en utilisant Python avec Django 👨‍💻
 
-Library management system using Python on Django 👨‍💻
+Analyser des données avec Tableau et SQL 📊
 
-Data analysis with Tableau and SQL 📊
+Langages et outils 🛠️ Python AWS Jupyter MySQL WAMP MongoDB Git JavaScript HTML5 CSS React Express
 
-Languages ​​and tools 🛠️
-python
-aws
-jupyter
-mysql
-wamp
-mongodb
-git
-JavaScript
-html5
-CSS
-react
-Express
