@@ -8,7 +8,7 @@ Je suis une développeuse FullStack passionnée par les données.
 
 📄 Découvrez mon travail et mes expériences dans mon [CV](https://audreyalaime.vercel.app/assets/AudreyALAIME-4b76f846.pdf).
 [
-📫 Vous pouvez me contacter sur : [LinkedIn](https://www.linkedin.com/feed/) [Instagram](](https://www.instagram.com/developpeuse_fullstack_aalaime/)
+📫 Vous pouvez me contacter sur : [LinkedIn](https://www.linkedin.com/feed/) [Instagram](https://www.instagram.com/developpeuse_fullstack_aalaime/)
 
 ⚡ Fun fact : ♥️ J'aime la photographie 📷 les voyages 🌏 et les animaux 🐶
 
