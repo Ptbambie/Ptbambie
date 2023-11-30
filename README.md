@@ -1,10 +1,10 @@
 ### Bonjour 👋
 
-Je suis une développeuse FullStack passionnée par les données.
+Je suis une développeuse Backend passionnée par les données.
 
-🔭 Actuellement, je suis développeuse web et Graphiste.
+🔭 Actuellement, je suis en contrat pro pour passer le diplome de Data engineer.
 
-🛩️ J'explore le domaine de la science des données, et développes mes compétences dans les langages de programmations Front et Backend.
+🛩️ J'explore le domaine de la science des données, et développes mes compétences dans les langages de programmations Backend.
 
 📄 Découvrez mon travail et mes expériences dans mon [CV](https://audreyalaime.vercel.app/assets/AudreyALAIME-4b76f846.pdf).
 [
@@ -12,13 +12,11 @@ Je suis une développeuse FullStack passionnée par les données.
 
 ⚡ Fun fact : ♥️ J'aime la photographie 📷 les voyages 🌏 et les animaux 🐶
 
-Quels sont mes projets ❓ 👨‍💻 Trouver un emploi dans le web ou je pourrais m'épanouir et continuer à progresser 
-
 Me former en statistiques pour la science des données avec Python 📊
 
 Créer un système de gestion de bibliothèque en utilisant Python avec Django 👨‍💻
 
-Analyser des données avec Tableau et SQL 📊
 
-Langages et outils 🛠️ Python AWS Jupyter MySQL WAMP MongoDB Git JavaScript HTML5 CSS React Express
+
+Langages et outils 🛠️ Python AWS Jupyter MySQL WAMP MongoDB Git JavaScript HTML5 CSS React Express Docker Pysparck
 
